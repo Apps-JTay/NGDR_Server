@@ -128,6 +128,10 @@
       <Project>{E3697EE2-1457-4F76-BCD8-F8C21E2C0788}</Project>
       <Name>JTay.ConnectionStringManager</Name>
     </ProjectReference>
+    <ProjectReference Include="..\..\JTay.NextGen\JTay.NextGen.csproj">
+      <Project>{699C93D6-F0B6-48C6-A036-6692DAEA3EC4}</Project>
+      <Name>JTay.NextGen</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
