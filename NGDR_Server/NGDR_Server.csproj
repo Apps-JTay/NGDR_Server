@@ -85,6 +85,9 @@
     <EmbeddedResource Include="Forms\EmailAddressCollector.resx">
       <DependentUpon>EmailAddressCollector.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="Forms\EMRFileSystem.resx">
+      <DependentUpon>EMRFileSystem.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Properties\licenses.licx" />
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
