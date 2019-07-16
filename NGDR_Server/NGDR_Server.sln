@@ -5,6 +5,12 @@ VisualStudioVersion = 16.0.29102.190
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NGDR_Server", "NGDR_Server.csproj", "{7D3995B2-2591-4ABC-A692-EAF3A143F4D2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JTay.FrameWork", "..\..\JTay.FrameWork\JTay.FrameWork.csproj", "{9438547F-C07B-4F32-8397-7BC9AC03325B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JTay.NextGen", "..\..\JTay.NextGen\JTay.NextGen.csproj", "{699C93D6-F0B6-48C6-A036-6692DAEA3EC4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JTay.ConnectionStringManager", "..\..\JTay.ConnectionStringManager\JTay.ConnectionStringManager\JTay.ConnectionStringManager\JTay.ConnectionStringManager.csproj", "{E3697EE2-1457-4F76-BCD8-F8C21E2C0788}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +21,18 @@ Global
 		{7D3995B2-2591-4ABC-A692-EAF3A143F4D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7D3995B2-2591-4ABC-A692-EAF3A143F4D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7D3995B2-2591-4ABC-A692-EAF3A143F4D2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9438547F-C07B-4F32-8397-7BC9AC03325B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9438547F-C07B-4F32-8397-7BC9AC03325B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9438547F-C07B-4F32-8397-7BC9AC03325B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9438547F-C07B-4F32-8397-7BC9AC03325B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{699C93D6-F0B6-48C6-A036-6692DAEA3EC4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{699C93D6-F0B6-48C6-A036-6692DAEA3EC4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{699C93D6-F0B6-48C6-A036-6692DAEA3EC4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{699C93D6-F0B6-48C6-A036-6692DAEA3EC4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E3697EE2-1457-4F76-BCD8-F8C21E2C0788}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E3697EE2-1457-4F76-BCD8-F8C21E2C0788}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E3697EE2-1457-4F76-BCD8-F8C21E2C0788}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E3697EE2-1457-4F76-BCD8-F8C21E2C0788}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
